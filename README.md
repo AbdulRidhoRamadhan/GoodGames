@@ -23,10 +23,11 @@ An interactive, web-based Blog with an AI-powered chatbot assistant—explore, l
 To install and run the project locally, follow these steps:
 
 1. Clone the repository
-2. Install dependencies using `npm install`
-3. Copy the `.env-example` file to `.env` and update it with your configuration
-4. Start the server using `npm run dev`
-5. Start the client using `npm run dev`
+2. Navigate to the folder you want to run using cd in terminal. example: cd server
+3. Install dependencies using `npm install`
+4. Copy the `.env-example` file to `.env` and update it with your configuration
+5. Start the server using `npm run dev`
+6. Start the client using `npm run dev`
 
 
 
