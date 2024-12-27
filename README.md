@@ -1,6 +1,6 @@
 # GoodGames
 
-GoodGames is a web application designed to provide users with a platform to discover and review video games. Users can browse through a collection of games, read reviews, and leave their own feedback.
+An interactive, web-based Blog with an AI-powered chatbot assistant—explore, learn, and get instant answers to fuel your gaming journey!
 
 ## Tech Stack
 
