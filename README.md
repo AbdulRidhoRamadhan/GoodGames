@@ -18,9 +18,9 @@ An interactive, web-based Blog with an AI-powered chatbot assistant—explore, l
 - Firebase
 
 
-## Installation
+## Getting Started
 
-To install and run the project locally, follow these steps:
+To get started with the project, follow these steps:
 
 1. Clone the repository
 2. Navigate to the folder you want to run using cd in terminal. example: cd server
