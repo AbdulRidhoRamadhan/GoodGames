@@ -1,0 +1,37 @@
+[
+  {
+    "username": "johndoe",
+    "email": "johndoe@example.com",
+    "password": "password123",
+    "phoneNumber": "08123456789",
+    "address": "Jakarta"
+  },
+  {
+    "username": "janedoe",
+    "email": "janedoe@example.com",
+    "password": "password456",
+    "phoneNumber": "08234567890",
+    "address": "Bandung"
+  },
+  {
+    "username": "alexsmith",
+    "email": "alexsmith@example.com",
+    "password": "password789",
+    "phoneNumber": "08345678901",
+    "address": "Surabaya"
+  },
+  {
+    "username": "mariarossi",
+    "email": "mariarossi@example.com",
+    "password": "password101",
+    "phoneNumber": "08456789012",
+    "address": "Medan"
+  },
+  {
+    "username": "charleslee",
+    "email": "charleslee@example.com",
+    "password": "password202",
+    "phoneNumber": "08567890123",
+    "address": "Bali"
+  }
+]

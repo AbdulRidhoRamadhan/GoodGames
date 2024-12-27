@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "imgUrl": "https://i.pinimg.com/564x/0e/90/bc/0e90bcedeee6f2d0e0a8b023ccc4a2a0.jpg",
+    "metacritic_rating": 97,
+    "release_date": "2017-03-03",
+    "UserId": 1
+  },
+  {
+    "title": "God of War",
+    "imgUrl": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg",
+    "metacritic_rating": 94,
+    "release_date": "2018-04-20",
+    "UserId": 1
+  },
+  {
+    "title": "Red Dead Redemption 2",
+    "imgUrl": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg",
+    "metacritic_rating": 97,
+    "release_date": "2018-10-26",
+    "UserId": 1
+  },
+  {
+    "title": "Elden Ring",
+    "imgUrl": "https://i.pinimg.com/564x/7a/6c/dd/7a6cdd4332f06a26f837bd975062f97e.jpg",
+    "metacritic_rating": 94,
+    "release_date": "2022-02-25",
+    "UserId": 1
+  },
+  {
+    "title": "Super Mario Odyssey",
+    "imgUrl": "https://i.pinimg.com/564x/05/52/44/055244056241ead911cb2f5ad247558a.jpg",
+    "metacritic_rating": 97,
+    "release_date": "2017-10-27",
+    "UserId": 1
+  },
+  {
+    "title": "Minecraft",
+    "imgUrl": "https://i.pinimg.com/564x/02/8d/b9/028db91f448f42890439403aeca89d5a.jpg",
+    "metacritic_rating": 93,
+    "release_date": "2011-11-18",
+    "UserId": 1
+  }
+]
